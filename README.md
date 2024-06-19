@@ -5,5 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## How to use
 
 Click on the country to get its info, the request takes 1-2 seconds.
+##
 Scroll to zoom
-Mmap can be dragged around to navigate.
+##
+Map can be dragged around to navigate.
